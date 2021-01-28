@@ -14,6 +14,11 @@ Student will have their topic approved by an instructor.
 
 ## Requirements
 
+**Git**
+
+* Create a fork this repository
+* Use your forked repository to store all project files and folders
+
 **HTML**
 
 * 3 page minimun
